@@ -1,0 +1,17 @@
+{
+  "name": "generator-reactjs",
+  "version": "1.0.0",
+  "type": "module",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Yeoman generator for React + Vite projects with react-router-dom",
+  "dependencies": {
+    "yeoman-generator": "^8.0.2"
+  }
+}
